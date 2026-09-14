@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+    background-color: #213C51;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 15px;
+    text-transform: capitalize;
+}
+
+h2 {
+    color: #f67fb1;
+    font-size: 25px;
+    font-weight: 15px;
+     font-family:'Courier New', Courier, monospace;
+}
+
+
+p {
+    color: rgb(101, 132, 177);
+    font-family: tahoma;
+    font-size:12px;
+    line-height: 20px;
+}
+
+figcaption {
+    color:#213C51;
+    font-family: tahoma;
+    font-size:12px;
+    line-height: 25px
+}
+
+a {
+    color:#f67fb1;
+    font-family: tahoma;
+    text-decoration:wavy;
+    font-size:12px;
+}
+
+ul {
+    color: rgb(101, 132, 177);
+    font-family: tahoma;
+    font-size:12px;
+    line-height: 25px;
+
+}
