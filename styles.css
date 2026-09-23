@@ -1,5 +1,6 @@
 body {
     background-color: white;
+    /*what about the font family, font-size, line-height*/
 }
 
 h1 {
@@ -7,7 +8,7 @@ h1 {
     font-size: 30px;
     background-color: #213C51;
     font-family:'Courier New', Courier, monospace;
-    font-weight: 15px;
+    font-weight: 15px; /*invalid, for font weight px won't work. use bold, normal, or plain numbers  */
     text-transform: capitalize;
 }
 
@@ -36,14 +37,16 @@ figcaption {
 a {
     color:#f67fb1;
     font-family: tahoma;
-    text-decoration:wavy;
-    font-size:12px;
+    text-decoration: underline wavy;
+    font-size: 12px;
 }
 
 ul {
     color: rgb(101, 132, 177);
     font-family: tahoma;
-    font-size:12px;
+    font-size: 12px;
     line-height: 25px;
 
 }
+
+/*Where are the CSS comments*/
